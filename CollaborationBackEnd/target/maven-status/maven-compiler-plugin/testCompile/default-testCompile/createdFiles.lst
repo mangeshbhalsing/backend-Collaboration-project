@@ -1,0 +1,9 @@
+com\niit\collaboration\Testcase\UserTestCase.class
+com\niit\collaboration\Testcase\ChatTestCase.class
+com\niit\collaboration\Testcase\AppTest.class
+com\niit\collaboration\Testcase\EventTestCase.class
+com\niit\collaboration\Testcase\JobTestCase.class
+com\niit\collaboration\Testcase\FriendTestCase.class
+com\niit\collaboration\Testcase\ChatForumTestCase.class
+com\niit\collaboration\Testcase\BlogTestCase.class
+com\niit\collaboration\Testcase\BlogCommentTestCase.class
